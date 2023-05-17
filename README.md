@@ -1,1 +1,1 @@
-# Template starbucks
+# Landing Page Starbucks
